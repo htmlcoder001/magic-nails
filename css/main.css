@@ -846,7 +846,6 @@ body {
 
 .footer {
     text-align: center;
-    font-weight: ;
     padding: 10px 0;
     background-color: #252525;
     color: #d3cbcb;
@@ -859,6 +858,7 @@ body {
     .order-btn {
         width: 220px;
         height: 50px;
+        font-size: 20px;
     }
 
     .kit-main-text {
@@ -962,5 +962,9 @@ body {
 
     .list-text {
         line-height: 30px;
+    }
+    
+    .timer-text {
+        font-size: 12px;
     }
 }
